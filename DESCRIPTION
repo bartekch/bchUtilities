@@ -1,0 +1,15 @@
+Package: bchUtilities
+Type: Package
+Title: A collection of calendar utility functions
+Version: 0.0.0.9000
+Authors@R: person("Bartosz", "Chrol", email = "bartek.chrol@gmail.com",
+  role = c("aut", "cre"))
+Description: A collection of calendar-related utility functions, prepared for
+    the purpose of programming skills presentation.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+Imports: lubridate,
+    timeDate
+RoxygenNote: 6.0.1
